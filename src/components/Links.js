@@ -1,6 +1,5 @@
 // src/components/Links.js
 import React from "react";
-
 function Links({ github, linkedin }) {
   return (
     <div>
